@@ -15,7 +15,7 @@ class PersonViewModel {
         PersonAPIManger.requestLotto(query: query){ person, error in
             
             guard let person = person else { return }
-            dump(person)
+//            dump(person)
             self.list.value = person
         }
     }

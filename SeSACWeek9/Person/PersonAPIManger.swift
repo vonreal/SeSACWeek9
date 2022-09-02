@@ -62,7 +62,7 @@ class PersonAPIManger {
                 
                 do {
                     let result = try JSONDecoder().decode(Person.self, from: data)
-                    print(result)
+//                    print(result)
                     completion(result, nil)
                 } catch {
                     print(error)

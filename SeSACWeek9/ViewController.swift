@@ -22,6 +22,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        let user = User("고래밥")
+        
+        user.bind { value in
+            print("\(value) name Changed Function")
+        }
+        
+        user.value = "딸기"
+        user.value = "바나나"
         
         viewModel.fetchPerson(query: "Na")
         viewModel.list.bind { person in

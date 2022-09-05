@@ -39,7 +39,7 @@ guild?.owner = user // User: RC 2
 user = nil
 //guild = nil
 
-guild?.owner // unowned: 메모리 주소는 남아 있다. weak: 함께 해제해준다.
+//guild?.owner // unowned: 메모리 주소는 남아 있다. weak: 함께 해제해준다.
 //user?.guild
 
 // << 순환참조 발생 >>

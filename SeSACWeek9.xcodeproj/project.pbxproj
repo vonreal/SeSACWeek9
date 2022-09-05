@@ -43,6 +43,7 @@
 		7628B9BF28BDA7ED00720E7C /* PersonAPIManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonAPIManger.swift; sourceTree = "<group>"; };
 		7628B9C128BDA87300720E7C /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		7628B9C328BDB79F00720E7C /* URLSession+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLSession+Extension.swift"; sourceTree = "<group>"; };
+		7652DD2828C5799D0043859D /* 0905-arc.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0905-arc.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		76D3482028BEF8E500240C05 /* Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
 		76D3482528BEFC2A00240C05 /* PersonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewModel.swift; sourceTree = "<group>"; };
 		76EE128B28C03833000A2B89 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 		7628B99A28BD94E800720E7C = {
 			isa = PBXGroup;
 			children = (
+				7652DD2728C579870043859D /* PlayGround */,
 				7628B9A528BD94E800720E7C /* SeSACWeek9 */,
 				7628B9A428BD94E800720E7C /* Products */,
 			);
@@ -109,6 +111,14 @@
 				76EE129128C05AD7000A2B89 /* LottoViewController.swift */,
 			);
 			path = Lotto;
+			sourceTree = "<group>";
+		};
+		7652DD2728C579870043859D /* PlayGround */ = {
+			isa = PBXGroup;
+			children = (
+				7652DD2828C5799D0043859D /* 0905-arc.playground */,
+			);
+			path = PlayGround;
 			sourceTree = "<group>";
 		};
 		76D3482228BEFC0900240C05 /* Person */ = {

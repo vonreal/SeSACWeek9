@@ -3,5 +3,6 @@
     <pages>
         <page name='delegate'/>
         <page name='0905-weak,unownd'/>
+        <page name='capturelist'/>
     </pages>
 </playground>

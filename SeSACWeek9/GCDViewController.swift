@@ -269,3 +269,9 @@ class GCDViewController: UIViewController {
     }
     
 }
+
+
+/*
+ 리뷰남기기 -> 리뷰 얼럿: 1년에 한 디바이스 당 3회 제한 -> 정확히 찾아보기
+ keyword: SKStoreReviewController
+ */

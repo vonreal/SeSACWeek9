@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  SeSACWeek9
+
+  Created by 나지운 on 2022/09/06.
+  
+*/
+
+"navigation_title" = "私の日記";
+
+"search_placeholder" = "動画検索";
+
+"main_age_placeholder" = "おいくつですか";
+
+"common_cancel" = "キャンセル";

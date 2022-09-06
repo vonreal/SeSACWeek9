@@ -1,0 +1,99 @@
+
+/* Class = "UIButton"; configuration.title = "GCD QoS (Quality Of Services)"; ObjectID = "1bA-oY-dpn"; */
+"1bA-oY-dpn.configuration.title" = "GCD QoS (Quality Of Services)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1bA-oY-dpn"; */
+"1bA-oY-dpn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3sd-Cn-zbO"; */
+"3sd-Cn-zbO.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "비밀번호"; ObjectID = "61L-zn-GRp"; */
+"61L-zn-GRp.placeholder" = "비밀번호";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "BKl-Hh-Rpt"; */
+"BKl-Hh-Rpt.placeholder" = "이름";
+
+/* Class = "UIButton"; configuration.title = "Serial(Main) / Sync"; ObjectID = "Bua-ON-UVJ"; */
+"Bua-ON-UVJ.configuration.title" = "Serial(Main) / Sync";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bua-ON-UVJ"; */
+"Bua-ON-UVJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "MPT-aa-jQ9"; */
+"MPT-aa-jQ9.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MPT-aa-jQ9"; */
+"MPT-aa-jQ9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OAV-AU-rLb"; */
+"OAV-AU-rLb.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Concurrent(Global) / ASync"; ObjectID = "ODw-dX-btv"; */
+"ODw-dX-btv.configuration.title" = "Concurrent(Global) / ASync 한국어";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ODw-dX-btv"; */
+"ODw-dX-btv.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVf-Oc-w1M"; */
+"QVf-Oc-w1M.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Qf3-mj-WRy"; */
+"Qf3-mj-WRy.text" = "Title";
+
+/* Class = "UIButton"; configuration.title = "로그인"; ObjectID = "U9m-73-To3"; */
+"U9m-73-To3.configuration.title" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U9m-73-To3"; */
+"U9m-73-To3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "DispatchGroup(Enter/Leave)"; ObjectID = "aJM-tf-WeY"; */
+"aJM-tf-WeY.configuration.title" = "DispatchGroup(Enter/Leave)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aJM-tf-WeY"; */
+"aJM-tf-WeY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "afy-x9-whL"; */
+"afy-x9-whL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fXk-gX-b3F"; */
+"fXk-gX-b3F.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "DispatchGroup - NASA"; ObjectID = "gMf-RV-scn"; */
+"gMf-RV-scn.configuration.title" = "DispatchGroup - NASA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gMf-RV-scn"; */
+"gMf-RV-scn.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "이메일"; ObjectID = "gci-21-cfy"; */
+"gci-21-cfy.placeholder" = "이메일";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kcE-rh-ZaT"; */
+"kcE-rh-ZaT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lSy-27-aOS"; */
+"lSy-27-aOS.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Dispatch"; ObjectID = "m50-si-8e6"; */
+"m50-si-8e6.configuration.title" = "Dispatch";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m50-si-8e6"; */
+"m50-si-8e6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sCA-Vt-5R6"; */
+"sCA-Vt-5R6.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Concurrent(Global) / Sync"; ObjectID = "uxb-wI-xjc"; */
+"uxb-wI-xjc.configuration.title" = "Concurrent(Global) / Sync";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uxb-wI-xjc"; */
+"uxb-wI-xjc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wIy-u1-2BN"; */
+"wIy-u1-2BN.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Serial(Main) / Async"; ObjectID = "zmx-2v-qUw"; */
+"zmx-2v-qUw.configuration.title" = "Serial(Main) / Async";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zmx-2v-qUw"; */
+"zmx-2v-qUw.normalTitle" = "Button";

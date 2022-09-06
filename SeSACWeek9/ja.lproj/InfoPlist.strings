@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  SeSACWeek9
+
+  Created by 나지운 on 2022/09/06.
+  
+*/
+
+"CFBundleDisplayName" = "Sophie 日記";
+"NSLocationWhenInUseUsageDescription" = "認証が必要";
